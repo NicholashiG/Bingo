@@ -4,10 +4,10 @@ import co.uniquindio.programacion.bingo.view.VentanaBingo;
 import co.uniquindio.programacion.bingo.view.VentanaNumerosBingo;
 
 /**
- * @version 2.4
+ * @version 2.5
  *
  * Ya está subida a github :3
- * 
+ * Ya está probada en Linux UwU
  * @author Nicolas Jurado, Kevin Garcia
  * 
  *         Esta clase es la encargada de iniciar el sistema
