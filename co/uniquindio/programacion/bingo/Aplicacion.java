@@ -4,7 +4,9 @@ import co.uniquindio.programacion.bingo.view.VentanaBingo;
 import co.uniquindio.programacion.bingo.view.VentanaNumerosBingo;
 
 /**
- * @version 2.3
+ * @version 2.4
+ *
+ * Ya está subida a github :3
  * 
  * @author Nicolas Jurado, Kevin Garcia
  * 
